@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "グリズリーに襲われたら♡",
+  "base_artist": "Kamiyado",
+  "createdAt": "2025-12-08T19:56:38.261985Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グリズリーに襲われたら♡",
+      "artist": "神宿",
+      "has_synced": false,
+      "path": "select/pl_01_グリズリーに襲われたら♡_神宿.txt"
+    }
+  ]
+}
